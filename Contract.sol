@@ -161,11 +161,11 @@ library SafeMath {
 }
 
 /**
- * Vivety
+ * Contract
  * 
  * 
  */
-contract Vivety {
+contract Contract {
     
     using SafeMath for uint256;
     
